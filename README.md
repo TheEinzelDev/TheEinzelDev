@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌑 K. Einzel | Exploit Developer
 
-<!--
-**TheEinzelDev/TheEinzelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Security Researcher specializing in memory corruption and offensive tool development for Windows environments.
 
-Here are some ideas to get you started:
+### 🛠 Focus & Expertise
+- **Vulnerability Research:** Mem-Corr, Stack/Heap Overflows, UAF.
+- **Exploitation:** ROP Chain Engineering, Egg-hunting, Win-x64 Bypass (DEP/ASLR).
+- **Languages:** C, C++, Assembly (x64), Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Research
+> Debugging Windows Kernels and researching undocumented NT APIs for weaponized exploits.
+
+---
+*"Never stress."*
