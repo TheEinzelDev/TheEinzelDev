@@ -1,4 +1,4 @@
-# 🌑 K. Einzel | Exploit Developer
+# 🌑 K. Einzel | Exploit Developer | OSED
 
 Independent Security Researcher specializing in memory corruption and offensive tool development for Windows environments.
 
