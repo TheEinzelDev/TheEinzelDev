@@ -8,7 +8,7 @@ Independent Security Researcher specializing in memory corruption and offensive 
 - **Languages:** C, C++, Assembly (x64), Python.
 
 ### 📜 Certifications
-- **OSED - Offensive Security Experienced Penetration Tester (PEN-300)
+- **OSED** - Offensive Security Experienced Penetration Tester (PEN-300)
 
 ### 🔬 Current Research
 > Debugging Windows Kernels and researching undocumented NT APIs for weaponized exploits.
